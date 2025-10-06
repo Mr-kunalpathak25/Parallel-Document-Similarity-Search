@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+dask[array,dataframe]
+numpy
+pydantic
+streamlit
+requests # To call the FastAPI backend

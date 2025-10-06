@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+A collection of papers on distributed computing and parallel processing.
+Dask is a flexible library for parallel computing in Python.
+The dog is lazy and sleeps all day near the fox.
+Cosine similarity is a measure of geometric distance.
